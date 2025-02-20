@@ -1,0 +1,156 @@
+@media screen and (max-width: 1138px) {
+    .mission_vission_container {
+        flex-direction: column;
+    }
+    .mission_left_content,
+    .mission_right_content {
+        max-width: 560px;
+    }
+    .mission_left,
+    .vision_right {
+        margin-right: 16px;
+    }
+    .about_second_sec_container {
+        flex-direction: column;
+        align-items: flex-start;
+        row-gap: 10px;
+    }
+    .about_second_sec_container p {
+        max-width: 100%;
+      }
+}
+
+@media screen and (max-width: 1000px) {
+    .language_block {
+        width: 160px;
+        right: 5%;
+    }
+    .four_values {
+        flex-wrap: wrap;
+    }
+    .seventh_section {
+        flex-direction: column;
+        padding-left: 3%;
+    }
+    .seventh_section_content {
+        max-width: 95%;
+      }
+}
+
+@media screen and (max-width: 824px) {
+    .nav_menu {
+        display: none;
+    }
+    .language_block {
+        display: none;
+    }
+    .burger_menu {
+        display: block;
+      }
+      .clicked:nth-child(1) {
+        transform: rotate(45deg) translateY(11px);
+        transition: all 0.3s;
+      }
+      .clicked:nth-child(2) {
+        transform: scale(0.1);
+        transition: all 0.3s;
+      }
+      .clicked:nth-child(3) {
+        transform: rotate(135deg) translateY(11px);
+        transition: all 0.3s;
+      }
+    .nav_mobile {
+        display: block;
+    }
+    .soul_container {
+       flex-direction: column;
+       align-items: flex-start;
+    }
+    .h2_under_content {
+        flex-direction: column;
+    }
+    .soul_image {
+        width: 100%;
+    }
+    .soul_content p {
+        max-width: 100%;
+    }
+    .second_section,
+    .third_section,
+    .fourth_section,
+    .fifth_section,
+    .sixth_section {
+        flex-direction: column;
+    }
+    .second_section_content,
+    .third_section_content,
+    .fourth_section_content,
+    .fifth_section_content,
+    .sixth_section_content {
+    width: 100%;
+    }
+    .form-row {
+        flex-direction: column;
+      }
+}
+
+@media screen and (max-width: 600px) {
+    .mission_left,
+    .vision_right {
+    flex-direction: column;
+    }
+    .second_section img,
+    .third_section img,
+    .fourth_section img,
+    .fifth_section img,
+    .sixth_section img {
+        width: 320px;
+    }
+    .hero_content_about h1,
+    .hero_content_technologies h1,
+    .hero_content_blogs h1,
+    .hero_content_products h1 {
+        font-size: 42px;
+    }
+    .contact_content {
+        flex-direction: column;
+    }
+    .information_content_ {
+        max-width: 100%;
+      }
+}
+
+@media screen and (max-width: 520px) {
+    .values_blog {
+        width: 100%;
+    }
+    .hero_content_left_image {
+        margin-top: 10px;
+      }
+    .hero_content_right_in_responsive {
+        display: block;
+        max-width: 360px;
+      }
+      .hero_content_right_in_responsive img {
+        width: 100%;
+      }
+      .hero_content_right {
+        display: none;
+      }
+      .hero_content {
+        align-items: flex-start;
+      }
+}
+
+@media screen and (max-width: 380px) {
+    .products_grid_container {
+        grid-template-columns: repeat(auto-fill, minmax(162px, 1fr));
+      }
+      
+      .products_grid_card {
+        max-width: 162px;
+      }
+      .products_grid_card_img {
+        max-width: 160px;
+      }
+}
