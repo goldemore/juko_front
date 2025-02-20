@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53285445.css",
+    "main.js": "/static/js/main.d519c17c.js",
+    "static/media/techno.png": "/static/media/techno.e30523f124527b64cd6e.png",
+    "static/media/s-1.jpg": "/static/media/s-1.468ad2a0e304a9d36c1b.jpg",
+    "static/media/whatstand.png": "/static/media/whatstand.3f8a2c33b1a8a285344a.png",
+    "static/media/soul.png": "/static/media/soul.c4433b56c605398bfa40.png",
+    "static/media/back_mesh.png": "/static/media/back_mesh.e964708ae021f3faa8b7.png",
+    "static/media/about.png": "/static/media/about.aaaed638b9b77f4f57bf.png",
+    "static/media/11.jpg": "/static/media/11.d41f04fbcea90676c593.jpg",
+    "static/media/technopage.png": "/static/media/technopage.f078b79e963b70557527.png",
+    "static/media/Group.png": "/static/media/Group.1833f0df8463cc213b78.png",
+    "static/media/but.png": "/static/media/but.3f6e48ad010dfe700d17.png",
+    "static/media/vision.png": "/static/media/vision.313b4419284c072df823.png",
+    "static/media/indust.png": "/static/media/indust.58e3b42e8a4e459e32e4.png",
+    "static/media/mission.png": "/static/media/mission.a7a670aaa3e879c096d3.png",
+    "static/media/alpha_01.png": "/static/media/alpha_01.efdd27d25af5f2c43ac2.png",
+    "static/media/sta.png": "/static/media/sta.350e7ab22e430b658798.png",
+    "static/media/01a.png": "/static/media/01a.ed9fdb08cf7a60711754.png",
+    "static/media/screen.png": "/static/media/screen.fed8fe5d9cbd0eb55d11.png",
+    "static/media/01police.png": "/static/media/01police.c8bc52b6c4ddffc04ff4.png",
+    "static/media/01a1.jpg": "/static/media/01a1.4c9f47cebba96fc426b4.jpg",
+    "static/media/alpha.png": "/static/media/alpha.de37e6363f20f0be3025.png",
+    "static/media/s2.png": "/static/media/s2.2180a1154c16186120eb.png",
+    "static/media/us.gif": "/static/media/us.7c9ae27854e2201d0386.gif",
+    "static/media/military.jpg": "/static/media/military.60ed5abe910522073c39.jpg",
+    "static/media/A.png": "/static/media/A.010fcfb23dd07e4decea.png",
+    "static/media/logo.png": "/static/media/logo.3c04946ae261f7808f3b.png",
+    "static/media/safety.jpg": "/static/media/safety.344b850c957b696c49ee.jpg",
+    "index.html": "/index.html",
+    "main.53285445.css.map": "/static/css/main.53285445.css.map",
+    "main.d519c17c.js.map": "/static/js/main.d519c17c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53285445.css",
+    "static/js/main.d519c17c.js"
+  ]
+}
