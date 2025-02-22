@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/juko_front/static/css/main.53285445.css",
-    "main.js": "/juko_front/static/js/main.e4e55967.js",
+    "main.js": "/juko_front/static/js/main.7a9bf837.js",
     "static/media/techno.png": "/juko_front/static/media/techno.e30523f124527b64cd6e.png",
     "static/media/s-1.jpg": "/juko_front/static/media/s-1.468ad2a0e304a9d36c1b.jpg",
     "static/media/whatstand.png": "/juko_front/static/media/whatstand.3f8a2c33b1a8a285344a.png",
@@ -30,10 +30,10 @@
     "static/media/safety.jpg": "/juko_front/static/media/safety.344b850c957b696c49ee.jpg",
     "index.html": "/juko_front/index.html",
     "main.53285445.css.map": "/juko_front/static/css/main.53285445.css.map",
-    "main.e4e55967.js.map": "/juko_front/static/js/main.e4e55967.js.map"
+    "main.7a9bf837.js.map": "/juko_front/static/js/main.7a9bf837.js.map"
   },
   "entrypoints": [
     "static/css/main.53285445.css",
-    "static/js/main.e4e55967.js"
+    "static/js/main.7a9bf837.js"
   ]
 }
